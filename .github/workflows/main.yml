@@ -27,7 +27,7 @@ jobs:
         
     - name: exécution des tests
       run: |
-        pytest test.py 
+        unittest test.py 
     
 
 
